@@ -1,3 +1,5 @@
+import "../css/common.css";
+
 let formData = {
   email: "",
   message: ""

@@ -62,7 +62,11 @@ button {
     cursor: pointer;
 }
 
-/* task-1 */
+.go-back{
+  display: block;
+  margin-bottom: 30px;
+}
+
 .category-item {
     display: flex;
     align-items: flex-start;
